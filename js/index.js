@@ -238,7 +238,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
                         subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "Aditya Institute Of Technology, New Delhi Class of <span>2020</span><br/><a target='_blank' href='https://github.com/thunder11h/Web/blob/master/Sumit_DEBNATH_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "Aditya Institute Of Technology, New Delhi Class of <span>2020</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/blob/master/Sumit_DEBNATH_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
                         planetViewed = 1;
@@ -265,7 +265,7 @@ function onMouseDown(event) {
 
                           info.innerHTML = "I'm Sumit <span>Debnath</span>,";
                         subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)<span>. I love turning exciting ideas into beautiful products.";
-                        description.innerHTML = "Aditya Institute Of Technology, New Delhi Class of <span>2020</span><br/><a target='_blank' href='https://github.com/thunder11h/Web/blob/master/Sumit_DEBNATH_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "Aditya Institute Of Technology, New Delhi Class of <span>2020</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/blob/master/Sumit_DEBNATH_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                     }
                 }
