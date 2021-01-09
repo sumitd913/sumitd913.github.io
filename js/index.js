@@ -237,7 +237,7 @@ function onMouseDown(event) {
                         });
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
-                        subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
+                        subtitle.innerHTML = "A <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
                         description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/blob/master/Sumit_Debnath_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
@@ -264,7 +264,7 @@ function onMouseDown(event) {
 
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
-                        subtitle.innerHTML = "a <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
+                        subtitle.innerHTML = "A <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
                         description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/blob/master/Sumit_Debnath_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                     }
@@ -332,10 +332,10 @@ function onMouseDown(event) {
                     if (currentcolor == 0xacacac) {
                     if (planetViewed == 1 || planetViewed==2 || planetViewed==3) {
                         planetViewed = 4;
-                        info.innerHTML = '<span id="couleur">Raah</span> Startup <div>Smart Object Detection and Guidance for Visually Impaired<div> ';
+                        info.innerHTML = '<span id="couleur">Face Mask Detection system</span> Startup <div>Face Mask Detection Platform utilizes Artificial Network to perceive if a person does/doesn’t wear a mask.<div> ';
                          document.getElementById('couleur').style.color="#acacac";
-                        subtitle.innerHTML = "Since <span>October 2018</span> .";
-                        description.innerHTML = "We focus on the need a person has to be independent and full of self esteem irrespective of his/her disability. Thus, we aim at converting liability into an asset and a disability into an ability.";
+                        subtitle.innerHTML = "Since <span>December 2020</span> .";
+                        description.innerHTML = "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras. system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19";
 
                         TweenMax.from($('#content'), 0.5, {
                             css: {
