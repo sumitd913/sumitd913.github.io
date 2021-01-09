@@ -332,7 +332,7 @@ function onMouseDown(event) {
                     if (currentcolor == 0xacacac) {
                     if (planetViewed == 1 || planetViewed==2 || planetViewed==3) {
                         planetViewed = 4;
-                        info.innerHTML = '<span id="couleur">Face Mask Detection system</span> Startup <div>Face Mask Detection Platform utilizes Artificial Network to perceive if a person does/doesn’t wear a mask.<div> ';
+                        info.innerHTML = '<span id="couleur">Face Mask Detector</span> Startup <div>Face Mask Detection Platform utilizes Artificial Network to perceive if a person does/doesn’t wear a mask.<div> ';
                          document.getElementById('couleur').style.color="#acacac";
                         subtitle.innerHTML = "Since <span>December 2020</span> .";
                         description.innerHTML = "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras. system can therefore be used in real-time applications.";
