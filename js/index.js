@@ -335,7 +335,7 @@ function onMouseDown(event) {
                         info.innerHTML = '<span id="couleur">Face Mask Detection system</span> Startup <div>Face Mask Detection Platform utilizes Artificial Network to perceive if a person does/doesn’t wear a mask.<div> ';
                          document.getElementById('couleur').style.color="#acacac";
                         subtitle.innerHTML = "Since <span>December 2020</span> .";
-                        description.innerHTML = "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras. system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19";
+                        description.innerHTML = "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras. system can therefore be used in real-time applications.";
 
                         TweenMax.from($('#content'), 0.5, {
                             css: {
