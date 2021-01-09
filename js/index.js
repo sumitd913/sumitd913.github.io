@@ -238,7 +238,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
                         subtitle.innerHTML = "A <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/blob/master/Sumit_Debnath_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/raw/master/Sumit_Debnath_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
                         planetViewed = 1;
@@ -265,7 +265,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
                         subtitle.innerHTML = "A <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/blob/master/Sumit_Debnath_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://github.com/sumitd913/sumitd913.github.io/raw/master/Sumit_Debnath_Resume.pdf'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                     }
                 }
