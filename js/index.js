@@ -302,10 +302,10 @@ function onMouseDown(event) {
                    if (currentcolor == 0xffc12d) {
                     if (planetViewed == 1 || planetViewed==2 || planetViewed==4) {
                         planetViewed = 3;
-                        info.innerHTML = '<span id="couleur">Super Mario</span> Project : <a target="_blank" href="https://github.com/sumitdnath/SuperCoinMan" style="font-size: 22px; color: white;">Github <a> ';
+                        info.innerHTML = '<span id="couleur">CovAid</span> Project : <a target="_blank" href="https://github.com/sumitdnath/CovAid" style="font-size: 22px; color: white;">Github <a> ';
                          document.getElementById('couleur').style.color="#ffc12d";
                         subtitle.innerHTML = "Since <span>January 2019</span>.";
-                        description.innerHTML = "Mobile Gaming App For Old School Gamers <br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "Built an interactive web app which can precisely detect covid disease a particular patient have by scanning the X-Ray/MRI with the help of deep learning models...<div>";
 
                         TweenMax.from($('#content'), 0.5, {
                             css: {
@@ -332,10 +332,10 @@ function onMouseDown(event) {
                     if (currentcolor == 0xacacac) {
                     if (planetViewed == 1 || planetViewed==2 || planetViewed==3) {
                         planetViewed = 4;
-                        info.innerHTML = '<span id="couleur">Face Mask Detector</span> Startup <div>Face Mask Detection Platform utilizes Artificial Network to perceive if a person does/doesn’t wear a mask.<div> ';
+                        info.innerHTML = '<span id="couleur">Facomatic</span> Startup <div>Tracked the face movement and calculated different parameters like face size, orientation, translation etc.<div> ';
                          document.getElementById('couleur').style.color="#acacac";
                         subtitle.innerHTML = "Since <span>December 2020</span> .";
-                        description.innerHTML = "Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras. system can therefore be used in real-time applications.";
+                        description.innerHTML = "Developed a novel object detection method that combines three-stage detectors for accurately detecting the object in real-time with transfer learning algorithm at the back end.";
 
                         TweenMax.from($('#content'), 0.5, {
                             css: {
