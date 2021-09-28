@@ -304,7 +304,7 @@ function onMouseDown(event) {
                         planetViewed = 3;
                         info.innerHTML = '<span id="couleur">CovAid</span> Project : <a target="_blank" href="https://github.com/sumitdnath/CovAid" style="font-size: 22px; color: white;">Github <a> ';
                          document.getElementById('couleur').style.color="#ffc12d";
-                        subtitle.innerHTML = "Since <span>January 2019</span>.";
+                        subtitle.innerHTML = "Since <span>April 2021</span>.";
                         description.innerHTML = "Built an interactive web app which can precisely detect covid disease a particular patient have by scanning the X-Ray/MRI with the help of deep learning models...<div>";
 
                         TweenMax.from($('#content'), 0.5, {
