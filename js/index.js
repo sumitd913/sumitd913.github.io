@@ -238,7 +238,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
                         subtitle.innerHTML = "A <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://drive.google.com/file/d/1eTHnxQXxWxLzWPHLToWnq0GgMgfndWIx/view'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://drive.google.com/file/d/1eBgKDnJGZZyZ_PaPwTV-YBu6otzxia8A/view'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
                     }
                     if (planetViewed == 2 || planetViewed==3 || planetViewed==4) {
                         planetViewed = 1;
@@ -265,7 +265,7 @@ function onMouseDown(event) {
 
                         info.innerHTML = "I'm Sumit <span>Debnath</span>,";
                         subtitle.innerHTML = "A <span>Developer</span> from <span>Agartala (India)</span><br/> I love turning exciting <span>ideas</span> into beautiful <span>products.</span>";
-                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://drive.google.com/file/d/1eTHnxQXxWxLzWPHLToWnq0GgMgfndWIx/view'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
+                        description.innerHTML = "J.C. Bose University of Science and Technology, YMCA, Class of <span>2023</span><br/><a target='_blank' href='https://drive.google.com/file/d/1eBgKDnJGZZyZ_PaPwTV-YBu6otzxia8A/view'>Offline Resume</a><br/><br/><div>Click on the other planets to learn more ...<div>";
 
                     }
                 }
